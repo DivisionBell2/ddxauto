@@ -5,7 +5,7 @@ export default defineConfig({
   fullyParallel: true,
   reporter: 'html',
   use: {
-    trace: 'off',
+    trace: 'on',
   },
 
   projects: [
